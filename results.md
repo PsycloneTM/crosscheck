@@ -5,7 +5,6 @@
 |---|---|
 | 25 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 6 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 33 | https://v.firebog.net/hosts/Admiral.txt |
 | 10 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 2 | https://v.firebog.net/hosts/Easylist.txt |
 | 37 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -17,7 +16,6 @@
 | 7 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 29 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 16 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 17 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -37,7 +35,6 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -49,7 +46,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -69,7 +65,6 @@
 |---|---|
 | 4 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 10 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 2 | https://v.firebog.net/hosts/Admiral.txt |
 | 3 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 99 | https://v.firebog.net/hosts/Easylist.txt |
 | 45 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -81,7 +76,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 28 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -96,45 +90,12 @@
 | 38 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 
 
-### https://v.firebog.net/hosts/Admiral.txt
-| % included | URL  |
-|---|---|
-| 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 1 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
-| 2 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 6 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
-| 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 0 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 0 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 0 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 1 | https://big.oisd.nl |
-| 0 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 0 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 0 | https://tgc.cloud/downloads/hosts.txt |
-| 1 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-
-
 ### https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
 | % included | URL  |
 |---|---|
 | 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 19 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 1 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 11 | https://v.firebog.net/hosts/Admiral.txt |
 | 1 | https://v.firebog.net/hosts/Easylist.txt |
 | 7 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
 | 1 | https://v.firebog.net/hosts/Easyprivacy.txt |
@@ -145,7 +106,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -166,7 +126,6 @@
 | 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 2 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 58 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 21 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
 | 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
@@ -177,7 +136,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 19 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -198,7 +156,6 @@
 | 5 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 23 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 8 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 26 | https://v.firebog.net/hosts/Admiral.txt |
 | 9 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 6 | https://v.firebog.net/hosts/Easylist.txt |
 | 1 | https://v.firebog.net/hosts/Easyprivacy.txt |
@@ -209,7 +166,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 11 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -230,7 +186,6 @@
 | 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 2 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 4 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 4 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -241,7 +196,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 7 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -262,7 +216,6 @@
 | 2 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 3 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 1 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 23 | https://v.firebog.net/hosts/Admiral.txt |
 | 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 1 | https://v.firebog.net/hosts/Easylist.txt |
 | 19 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -273,7 +226,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -294,7 +246,6 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -305,7 +256,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -326,7 +276,6 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 1 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -337,7 +286,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -358,7 +306,6 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 10 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 16 | https://v.firebog.net/hosts/Easylist.txt |
 | 7 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -369,7 +316,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 11 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -390,7 +336,6 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -401,7 +346,6 @@
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -422,7 +366,6 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 1 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -433,7 +376,6 @@
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -454,7 +396,6 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -465,7 +406,6 @@
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -480,45 +420,12 @@
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 
 
-### https://phishing.army/download/phishing_army_blocklist_extended.txt
-| % included | URL  |
-|---|---|
-| 66 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
-| 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 60 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 0 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 0 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 0 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 19 | https://big.oisd.nl |
-| 0 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 0 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 22 | https://tgc.cloud/downloads/hosts.txt |
-| 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-
-
 ### https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 | % included | URL  |
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -530,7 +437,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
@@ -550,7 +456,6 @@
 | 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 1 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 1 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 1 | https://v.firebog.net/hosts/Easylist.txt |
 | 1 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -562,7 +467,6 @@
 | 56 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
@@ -582,7 +486,6 @@
 | 65 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -594,7 +497,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 99 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
@@ -614,7 +516,6 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -626,7 +527,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -646,7 +546,6 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -658,7 +557,6 @@
 | 10 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -678,7 +576,6 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 1 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -690,7 +587,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 7 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -710,7 +606,6 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -722,7 +617,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -742,7 +636,6 @@
 | 42 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 47 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 61 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 100 | https://v.firebog.net/hosts/Admiral.txt |
 | 6 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 71 | https://v.firebog.net/hosts/Easylist.txt |
 | 56 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -754,7 +647,6 @@
 | 24 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 2 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 17 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 78 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 2 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 10 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -774,7 +666,6 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -786,7 +677,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -806,7 +696,6 @@
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 2 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://v.firebog.net/hosts/Admiral.txt |
 | 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 1 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -818,7 +707,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
@@ -838,7 +726,6 @@
 | 84 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 76 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 87 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 90 | https://v.firebog.net/hosts/Admiral.txt |
 | 26 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 93 | https://v.firebog.net/hosts/Easylist.txt |
 | 84 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -850,12 +737,11 @@
 | 4 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 2 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 27 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 80 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 10 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 16 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 5 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 48 | https://urlhaus.abuse.ch/downloads/hostfile/ |
+| 47 | https://urlhaus.abuse.ch/downloads/hostfile/ |
 | 19 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 | 46 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
 | 50 | https://big.oisd.nl |
@@ -870,7 +756,6 @@
 | 10 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 54 | https://v.firebog.net/hosts/static/w3kbl.txt |
 | 54 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 84 | https://v.firebog.net/hosts/Admiral.txt |
 | 22 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
 | 56 | https://v.firebog.net/hosts/Easylist.txt |
 | 55 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
@@ -882,7 +767,6 @@
 | 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 1 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://phishing.army/download/phishing_army_blocklist_extended.txt |
 | 30 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 7 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
