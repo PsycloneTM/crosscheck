@@ -20,7 +20,7 @@
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 17 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 84 | https://urlhaus.abuse.ch/downloads/hostfile/ |
+| 83 | https://urlhaus.abuse.ch/downloads/hostfile/ |
 | 3 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 | 2 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
 | 22 | https://big.oisd.nl |
@@ -29,6 +29,7 @@
 | 28 | https://tgc.cloud/downloads/hosts.txt |
 | 9 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 3 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 9 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://v.firebog.net/hosts/static/w3kbl.txt
@@ -60,6 +61,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://v.firebog.net/hosts/AdguardDNS.txt
@@ -91,6 +93,7 @@
 | 23 | https://tgc.cloud/downloads/hosts.txt |
 | 38 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 21 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 42 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
@@ -122,6 +125,7 @@
 | 1 | https://tgc.cloud/downloads/hosts.txt |
 | 4 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 4 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 1 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://v.firebog.net/hosts/Easylist.txt
@@ -153,6 +157,7 @@
 | 15 | https://tgc.cloud/downloads/hosts.txt |
 | 24 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 11 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 25 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
@@ -184,6 +189,7 @@
 | 4 | https://tgc.cloud/downloads/hosts.txt |
 | 8 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 4 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 5 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://v.firebog.net/hosts/Easyprivacy.txt
@@ -215,6 +221,7 @@
 | 14 | https://tgc.cloud/downloads/hosts.txt |
 | 35 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 14 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 23 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://v.firebog.net/hosts/Prigent-Ads.txt
@@ -246,6 +253,7 @@
 | 1 | https://tgc.cloud/downloads/hosts.txt |
 | 2 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 1 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 2 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
@@ -277,6 +285,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
@@ -308,6 +317,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 1 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 2 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
@@ -339,6 +349,7 @@
 | 4 | https://tgc.cloud/downloads/hosts.txt |
 | 6 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 5 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 4 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
@@ -370,6 +381,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://v.firebog.net/hosts/Prigent-Crypto.txt
@@ -401,6 +413,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
@@ -432,6 +445,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
@@ -463,6 +477,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://v.firebog.net/hosts/RPiList-Malware.txt
@@ -485,7 +500,7 @@
 | 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 76 | https://urlhaus.abuse.ch/downloads/hostfile/ |
+| 75 | https://urlhaus.abuse.ch/downloads/hostfile/ |
 | 0 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 | 0 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
 | 3 | https://big.oisd.nl |
@@ -494,6 +509,7 @@
 | 13 | https://tgc.cloud/downloads/hosts.txt |
 | 31 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 18 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 27 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://v.firebog.net/hosts/RPiList-Phishing.txt
@@ -525,6 +541,7 @@
 | 22 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
@@ -556,6 +573,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://urlhaus.abuse.ch/downloads/hostfile/
@@ -587,6 +605,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
@@ -618,6 +637,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
@@ -649,6 +669,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://big.oisd.nl
@@ -680,6 +701,7 @@
 | 34 | https://tgc.cloud/downloads/hosts.txt |
 | 42 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 17 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 38 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
@@ -711,6 +733,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
@@ -742,6 +765,7 @@
 | 0 | https://tgc.cloud/downloads/hosts.txt |
 | 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://tgc.cloud/downloads/hosts.txt
@@ -773,6 +797,7 @@
 | 32 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
 | 89 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
 | 43 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 73 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://badmojr.github.io/1Hosts/Lite/domains.txt
@@ -804,6 +829,7 @@
 | 23 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
 | 30 | https://tgc.cloud/downloads/hosts.txt |
 | 25 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
+| 46 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
 
 
 ### https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt
@@ -835,3 +861,36 @@
 | 25 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
 | 35 | https://tgc.cloud/downloads/hosts.txt |
 | 59 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 53 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
+
+
+### https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+| % included | URL  |
+|---|---|
+| 18 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
+| 98 | https://v.firebog.net/hosts/static/w3kbl.txt |
+| 100 | https://v.firebog.net/hosts/AdguardDNS.txt |
+| 15 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
+| 100 | https://v.firebog.net/hosts/Easylist.txt |
+| 72 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
+| 100 | https://v.firebog.net/hosts/Easyprivacy.txt |
+| 100 | https://v.firebog.net/hosts/Prigent-Ads.txt |
+| 99 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
+| 57 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
+| 26 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
+| 99 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
+| 2 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
+| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
+| 36 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
+| 12 | https://v.firebog.net/hosts/RPiList-Malware.txt |
+| 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
+| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
+| 70 | https://urlhaus.abuse.ch/downloads/hostfile/ |
+| 24 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
+| 10 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
+| 34 | https://big.oisd.nl |
+| 28 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
+| 21 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
+| 45 | https://tgc.cloud/downloads/hosts.txt |
+| 82 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
+| 40 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
