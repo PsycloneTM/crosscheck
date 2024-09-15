@@ -4,23 +4,16 @@
 | % included | URL  |
 |---|---|
 | 25 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 6 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 10 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 2 | https://v.firebog.net/hosts/Easylist.txt |
 | 37 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 3 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 59 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 9 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 1 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 1 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 7 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 16 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 17 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 83 | https://urlhaus.abuse.ch/downloads/hostfile/ |
+| 82 | https://urlhaus.abuse.ch/downloads/hostfile/ |
 | 3 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 | 2 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
 | 22 | https://big.oisd.nl |
@@ -40,11 +33,7 @@
 | 6 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 1 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 9 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 10 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 100 | https://someonewhocares.org/hosts/hosts |
 | 8 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 3 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 100 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 23 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 7 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -54,16 +43,9 @@
 | % included | URL  |
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -90,163 +72,9 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 1 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-
-
-### https://v.firebog.net/hosts/AdguardDNS.txt
-| % included | URL  |
-|---|---|
-| 4 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 10 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 3 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 99 | https://v.firebog.net/hosts/Easylist.txt |
-| 45 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 6 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 22 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 1 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 25 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 28 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 0 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 6 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 7 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 23 | https://big.oisd.nl |
-| 7 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 7 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 23 | https://tgc.cloud/downloads/hosts.txt |
-| 38 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 21 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
-| 42 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 50 | https://anti-ad.net/domains.txt |
-| 51 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 33 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 29 | https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt |
-| 5 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 16 | https://blocklistproject.github.io/Lists/ads.txt |
-| 7 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
-| 3 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
-| 11 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 3 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 6 | https://someonewhocares.org/hosts/hosts |
-| 12 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 6 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 5 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
-| 25 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 2 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-
-
-### https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-| % included | URL  |
-|---|---|
-| 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 19 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 1 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 1 | https://v.firebog.net/hosts/Easylist.txt |
-| 7 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 1 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 9 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 17 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| 2 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 0 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 3 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 2 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 1 | https://big.oisd.nl |
-| 1 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 19 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 1 | https://tgc.cloud/downloads/hosts.txt |
-| 4 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 4 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
-| 1 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 1 | https://anti-ad.net/domains.txt |
-| 3 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 2 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 2 | https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt |
-| 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 8 | https://blocklistproject.github.io/Lists/ads.txt |
-| 2 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
-| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
-| 4 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 100 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 5 | https://someonewhocares.org/hosts/hosts |
-| 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 3 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 4 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
-| 15 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 4 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-
-
-### https://v.firebog.net/hosts/Easylist.txt
-| % included | URL  |
-|---|---|
-| 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 2 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 58 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 21 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 8 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 25 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 19 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 0 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 1 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 0 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 15 | https://big.oisd.nl |
-| 1 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 3 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 15 | https://tgc.cloud/downloads/hosts.txt |
-| 24 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 11 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
-| 25 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 38 | https://anti-ad.net/domains.txt |
-| 33 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 19 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 17 | https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt |
-| 3 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 4 | https://blocklistproject.github.io/Lists/ads.txt |
-| 2 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
-| 1 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
-| 3 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 2 | https://someonewhocares.org/hosts/hosts |
-| 5 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 1 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
-| 3 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 
 
@@ -255,15 +83,8 @@
 |---|---|
 | 5 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 23 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 8 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 9 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 6 | https://v.firebog.net/hosts/Easylist.txt |
-| 1 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 61 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 4 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 3 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 11 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -290,164 +111,10 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 2 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 10 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 9 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 9 | https://someonewhocares.org/hosts/hosts |
 | 8 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 1 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 7 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 21 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 5 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-
-
-### https://v.firebog.net/hosts/Easyprivacy.txt
-| % included | URL  |
-|---|---|
-| 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 2 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 4 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
-| 4 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 2 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 1 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| 5 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 7 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 0 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 2 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 2 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 2 | https://big.oisd.nl |
-| 4 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 1 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 14 | https://tgc.cloud/downloads/hosts.txt |
-| 35 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 14 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
-| 23 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 35 | https://anti-ad.net/domains.txt |
-| 10 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 17 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 15 | https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt |
-| 5 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 2 | https://blocklistproject.github.io/Lists/ads.txt |
-| 1 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
-| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
-| 3 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 1 | https://someonewhocares.org/hosts/hosts |
-| 6 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 2 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 1 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
-| 5 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-
-
-### https://v.firebog.net/hosts/Prigent-Ads.txt
-| % included | URL  |
-|---|---|
-| 2 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 3 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 1 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 1 | https://v.firebog.net/hosts/Easylist.txt |
-| 19 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 1 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 0 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 0 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 0 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 1 | https://big.oisd.nl |
-| 4 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 1 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 1 | https://tgc.cloud/downloads/hosts.txt |
-| 2 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 1 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
-| 2 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 1 | https://anti-ad.net/domains.txt |
-| 2 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 2 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 2 | https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt |
-| 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 5 | https://blocklistproject.github.io/Lists/ads.txt |
-| 3 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
-| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
-| 4 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 5 | https://someonewhocares.org/hosts/hosts |
-| 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
-| 7 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-
-
-### https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
-| % included | URL  |
-|---|---|
-| 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
-| 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 0 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 0 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 0 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 0 | https://big.oisd.nl |
-| 0 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 0 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 0 | https://tgc.cloud/downloads/hosts.txt |
-| 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
-| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 0 | https://anti-ad.net/domains.txt |
-| 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt |
-| 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 0 | https://blocklistproject.github.io/Lists/ads.txt |
-| 0 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
-| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
-| 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
-| 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 1 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
-| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 
 
 ### https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
@@ -455,15 +122,8 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 1 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 2 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -490,11 +150,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -505,15 +161,8 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 10 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 16 | https://v.firebog.net/hosts/Easylist.txt |
 | 7 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 11 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -540,63 +189,9 @@
 | 2 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 2 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 1 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-
-
-### https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-| % included | URL  |
-|---|---|
-| 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
-| 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 3 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 0 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 0 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 0 | https://big.oisd.nl |
-| 0 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 0 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 0 | https://tgc.cloud/downloads/hosts.txt |
-| 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
-| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 0 | https://anti-ad.net/domains.txt |
-| 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt |
-| 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 0 | https://blocklistproject.github.io/Lists/ads.txt |
-| 0 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
-| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
-| 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
-| 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
-| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 
 
@@ -605,16 +200,9 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 1 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
@@ -640,11 +228,7 @@
 | 1 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 89 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -655,16 +239,9 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
@@ -690,11 +267,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -705,16 +278,9 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
@@ -740,11 +306,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -755,22 +317,15 @@
 |---|---|
 | 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 1 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 1 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 1 | https://v.firebog.net/hosts/Easylist.txt |
 | 1 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 73 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 1 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 1 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 9 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 56 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 75 | https://urlhaus.abuse.ch/downloads/hostfile/ |
+| 73 | https://urlhaus.abuse.ch/downloads/hostfile/ |
 | 0 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 | 0 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
 | 3 | https://big.oisd.nl |
@@ -790,11 +345,7 @@
 | 1 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 1 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 1 | https://someonewhocares.org/hosts/hosts |
 | 5 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 1 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -805,16 +356,9 @@
 |---|---|
 | 65 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -840,11 +384,7 @@
 | 10 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 91 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -855,16 +395,9 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -890,11 +423,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 1 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -905,16 +434,9 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 10 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -940,11 +462,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -955,16 +473,9 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 1 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 7 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -990,11 +501,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 100 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1005,16 +512,9 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -1040,11 +540,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1055,23 +551,16 @@
 |---|---|
 | 42 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 47 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 61 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 6 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 71 | https://v.firebog.net/hosts/Easylist.txt |
 | 56 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 8 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 64 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 6 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 1 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 24 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 24 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 2 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 78 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 2 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 10 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 3 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 80 | https://urlhaus.abuse.ch/downloads/hostfile/ |
+| 79 | https://urlhaus.abuse.ch/downloads/hostfile/ |
 | 16 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 | 10 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
 | 66 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
@@ -1090,11 +579,7 @@
 | 16 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 3 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 11 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 6 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 36 | https://someonewhocares.org/hosts/hosts |
 | 12 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 16 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 43 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 4 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 23 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 3 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1105,16 +590,9 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -1140,11 +618,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 1 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1155,16 +629,9 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 2 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 1 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 1 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 1 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -1190,11 +657,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 1 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 3 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 3 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1205,23 +668,16 @@
 |---|---|
 | 84 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 76 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 87 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 26 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 93 | https://v.firebog.net/hosts/Easylist.txt |
 | 84 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 96 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 82 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 17 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 9 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 35 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 4 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 2 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 80 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 10 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 16 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 5 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 47 | https://urlhaus.abuse.ch/downloads/hostfile/ |
+| 45 | https://urlhaus.abuse.ch/downloads/hostfile/ |
 | 19 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 | 46 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
 | 50 | https://big.oisd.nl |
@@ -1240,11 +696,7 @@
 | 9 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 5 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 21 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 26 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 100 | https://someonewhocares.org/hosts/hosts |
 | 23 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 19 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 77 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 19 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 42 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 22 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1255,16 +707,9 @@
 |---|---|
 | 10 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 54 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 54 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 22 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 56 | https://v.firebog.net/hosts/Easylist.txt |
 | 55 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 81 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 40 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 9 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 6 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 21 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 1 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 30 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -1290,11 +735,7 @@
 | 2 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 4 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 15 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 22 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 22 | https://someonewhocares.org/hosts/hosts |
 | 23 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 9 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 9 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 32 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 17 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1305,16 +746,9 @@
 |---|---|
 | 8 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 26 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 70 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 100 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 62 | https://v.firebog.net/hosts/Easylist.txt |
 | 68 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 76 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 60 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 17 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 7 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 46 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 1 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 32 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -1340,11 +774,7 @@
 | 6 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 3 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 16 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 100 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 14 | https://someonewhocares.org/hosts/hosts |
 | 18 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 16 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 38 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 6 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1355,23 +785,16 @@
 |---|---|
 | 18 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 98 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 100 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 15 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 100 | https://v.firebog.net/hosts/Easylist.txt |
 | 72 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 100 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 100 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 99 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 57 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 26 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 99 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 2 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 36 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 12 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 70 | https://urlhaus.abuse.ch/downloads/hostfile/ |
+| 69 | https://urlhaus.abuse.ch/downloads/hostfile/ |
 | 24 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 | 10 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
 | 34 | https://big.oisd.nl |
@@ -1390,11 +813,7 @@
 | 4 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 4 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 18 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 15 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 39 | https://someonewhocares.org/hosts/hosts |
 | 20 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 24 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 14 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 40 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 9 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1405,23 +824,16 @@
 |---|---|
 | 5 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 9 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 76 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 6 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 100 | https://v.firebog.net/hosts/Easylist.txt |
 | 40 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 97 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 33 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 98 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 5 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 25 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 9 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 6 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 26 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 7 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 71 | https://urlhaus.abuse.ch/downloads/hostfile/ |
+| 69 | https://urlhaus.abuse.ch/downloads/hostfile/ |
 | 79 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 | 7 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
 | 23 | https://big.oisd.nl |
@@ -1440,11 +852,7 @@
 | 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 4 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 14 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 6 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 8 | https://someonewhocares.org/hosts/hosts |
 | 17 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 79 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 9 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 44 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 3 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1455,16 +863,9 @@
 |---|---|
 | 8 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 40 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 55 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 17 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 60 | https://v.firebog.net/hosts/Easylist.txt |
 | 52 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 18 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 43 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 5 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 3 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 13 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 1 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 39 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -1490,11 +891,7 @@
 | 3 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 4 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 15 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 17 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 18 | https://someonewhocares.org/hosts/hosts |
 | 19 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 9 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 9 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 32 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 18 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1505,16 +902,9 @@
 |---|---|
 | 14 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 67 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 77 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 21 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 76 | https://v.firebog.net/hosts/Easylist.txt |
 | 73 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 66 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 71 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 6 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 6 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 25 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 1 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 1 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 69 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -1540,11 +930,7 @@
 | 6 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 5 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 17 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 21 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 26 | https://someonewhocares.org/hosts/hosts |
 | 21 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 16 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 3 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 33 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 20 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1555,23 +941,16 @@
 |---|---|
 | 17 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 70 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 78 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 23 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 76 | https://v.firebog.net/hosts/Easylist.txt |
 | 74 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 74 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 71 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 15 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 7 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 28 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 7 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 2 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 73 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 9 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 1 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 3 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 19 | https://urlhaus.abuse.ch/downloads/hostfile/ |
+| 20 | https://urlhaus.abuse.ch/downloads/hostfile/ |
 | 17 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 | 45 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
 | 40 | https://big.oisd.nl |
@@ -1590,11 +969,7 @@
 | 7 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 5 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 19 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 23 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 27 | https://someonewhocares.org/hosts/hosts |
 | 22 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 17 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 5 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 14 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 38 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 22 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1605,23 +980,16 @@
 |---|---|
 | 18 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 64 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 31 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 4 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 34 | https://v.firebog.net/hosts/Easylist.txt |
 | 45 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 56 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 31 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 3 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 11 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 63 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 10 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 2 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 47 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 93 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | 9 | https://v.firebog.net/hosts/RPiList-Malware.txt |
 | 15 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
 | 2 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 22 | https://urlhaus.abuse.ch/downloads/hostfile/ |
+| 21 | https://urlhaus.abuse.ch/downloads/hostfile/ |
 | 24 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 | 4 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
 | 26 | https://big.oisd.nl |
@@ -1640,11 +1008,7 @@
 | 21 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 3 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 11 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 4 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 66 | https://someonewhocares.org/hosts/hosts |
 | 14 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 24 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 7 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 6 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 12 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 2 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1655,16 +1019,9 @@
 |---|---|
 | 16 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 52 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 18 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 96 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 8 | https://v.firebog.net/hosts/Easylist.txt |
 | 42 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 3 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 97 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 20 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 3 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 1 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 31 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 25 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -1690,11 +1047,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 2 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 15 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 96 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 58 | https://someonewhocares.org/hosts/hosts |
 | 11 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 57 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 20 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 52 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 7 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1705,16 +1058,9 @@
 |---|---|
 | 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 5 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 2 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 1 | https://v.firebog.net/hosts/Easylist.txt |
 | 6 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 13 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 6 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 7 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -1740,11 +1086,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 1 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 5 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 3 | https://someonewhocares.org/hosts/hosts |
 | 67 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 6 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 21 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1755,16 +1097,9 @@
 |---|---|
 | 41 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 1 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 26 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 39 | https://v.firebog.net/hosts/Easylist.txt |
 | 9 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 2 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 52 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 74 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 23 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 33 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 73 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -1790,11 +1125,7 @@
 | 0 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 1 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 2 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 7 | https://someonewhocares.org/hosts/hosts |
 | 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 30 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 54 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 2 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 1 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1805,16 +1136,9 @@
 |---|---|
 | 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 5 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 5 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 4 | https://v.firebog.net/hosts/Easylist.txt |
 | 14 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 1 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 12 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 2 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 14 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -1840,11 +1164,7 @@
 | 6 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 11 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 2 | https://someonewhocares.org/hosts/hosts |
 | 11 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 1 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 39 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 41 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
@@ -1855,16 +1175,9 @@
 |---|---|
 | 3 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 34 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 3 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 33 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 1 | https://v.firebog.net/hosts/Easylist.txt |
 | 13 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 2 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 14 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 6 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 5 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 11 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -1890,114 +1203,10 @@
 | 5 | https://blocklistproject.github.io/Lists/tracking.txt |
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 1 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
-| 33 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 8 | https://someonewhocares.org/hosts/hosts |
 | 7 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 5 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 45 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 12 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-
-
-### https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
-| % included | URL  |
-|---|---|
-| 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 19 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 1 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 100 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 1 | https://v.firebog.net/hosts/Easylist.txt |
-| 7 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 1 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 9 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 17 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| 2 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 0 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 3 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 2 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 1 | https://big.oisd.nl |
-| 1 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 19 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 1 | https://tgc.cloud/downloads/hosts.txt |
-| 4 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 4 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
-| 1 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 1 | https://anti-ad.net/domains.txt |
-| 3 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 2 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 2 | https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt |
-| 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 8 | https://blocklistproject.github.io/Lists/ads.txt |
-| 2 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
-| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
-| 4 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 5 | https://someonewhocares.org/hosts/hosts |
-| 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 3 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 4 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
-| 15 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 4 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-
-
-### https://someonewhocares.org/hosts/hosts
-| % included | URL  |
-|---|---|
-| 10 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 6 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 1 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 1 | https://v.firebog.net/hosts/Easylist.txt |
-| 5 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 14 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 7 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 0 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 2 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 0 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 2 | https://big.oisd.nl |
-| 40 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 7 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 3 | https://tgc.cloud/downloads/hosts.txt |
-| 2 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
-| 2 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 1 | https://anti-ad.net/domains.txt |
-| 2 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 1 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 1 | https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt |
-| 2 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 6 | https://blocklistproject.github.io/Lists/ads.txt |
-| 2 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
-| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
-| 2 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 1 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 2 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 1 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
-| 1 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 
 
 ### https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -2005,16 +1214,9 @@
 |---|---|
 | 1 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 14 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 3 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 2 | https://v.firebog.net/hosts/Easylist.txt |
 | 11 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 2 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 13 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 7 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 1 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -2041,112 +1243,8 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 2 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 8 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 2 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 2 | https://someonewhocares.org/hosts/hosts |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 10 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 30 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-
-
-### https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt
-| % included | URL  |
-|---|---|
-| 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 1 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
-| 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 7 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 3 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 0 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 100 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 0 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 0 | https://big.oisd.nl |
-| 0 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 0 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 0 | https://tgc.cloud/downloads/hosts.txt |
-| 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
-| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 1 | https://anti-ad.net/domains.txt |
-| 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt |
-| 0 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 1 | https://blocklistproject.github.io/Lists/ads.txt |
-| 0 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
-| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
-| 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
-| 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
-| 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
-| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
-| 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
-
-
-### https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt
-| % included | URL  |
-|---|---|
-| 71 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
-| 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
-| 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
-| 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
-| 6 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
-| 0 | https://v.firebog.net/hosts/RPiList-Malware.txt |
-| 17 | https://v.firebog.net/hosts/RPiList-Phishing.txt |
-| 0 | https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts |
-| 0 | https://urlhaus.abuse.ch/downloads/hostfile/ |
-| 0 | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
-| 0 | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt |
-| 15 | https://big.oisd.nl |
-| 0 | https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt |
-| 0 | https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts |
-| 20 | https://tgc.cloud/downloads/hosts.txt |
-| 0 | https://badmojr.github.io/1Hosts/Lite/domains.txt |
-| 0 | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt |
-| 0 | https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts |
-| 0 | https://anti-ad.net/domains.txt |
-| 0 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/light.txt |
-| 1 | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt |
-| 2 | https://github.com/hagezi/dns-blocklists/raw/main/domains/pro.txt |
-| 1 | https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt |
-| 0 | https://blocklistproject.github.io/Lists/ads.txt |
-| 0 | https://blocklistproject.github.io/Lists/tracking.txt |
-| 6 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
-| 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
-| 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
-| 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
-| 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 
 
@@ -2155,16 +1253,9 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 1 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -2191,11 +1282,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 1 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
 | 1 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 
@@ -2205,16 +1292,9 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 0 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 0 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -2241,11 +1321,7 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 0 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 0 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 0 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt |
 
@@ -2255,16 +1331,9 @@
 |---|---|
 | 0 | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | 5 | https://v.firebog.net/hosts/static/w3kbl.txt |
-| 0 | https://v.firebog.net/hosts/AdguardDNS.txt |
-| 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 0 | https://v.firebog.net/hosts/Easylist.txt |
 | 1 | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
-| 0 | https://v.firebog.net/hosts/Easyprivacy.txt |
-| 0 | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| 0 | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | 0 | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | 0 | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt |
-| 0 | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | 0 | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | 0 | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
@@ -2291,10 +1360,6 @@
 | 0 | https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt |
 | 0 | https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list |
 | 1 | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
-| 1 | https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt |
-| 1 | https://someonewhocares.org/hosts/hosts |
 | 0 | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt |
-| 0 | https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list_browser.txt |
-| 0 | https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt |
 | 1 | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | 0 | https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking |
