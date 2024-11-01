@@ -10,9 +10,9 @@
 0%	https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 16%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 0%	https://v.firebog.net/hosts/RPiList-Malware.txt
-9%	https://v.firebog.net/hosts/RPiList-Phishing.txt
+10%	https://v.firebog.net/hosts/RPiList-Phishing.txt
 0%	https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-91%	https://urlhaus.abuse.ch/downloads/hostfile/
+88%	https://urlhaus.abuse.ch/downloads/hostfile/
 3%	https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 2%	https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
 9%	https://big.oisd.nl
@@ -26,7 +26,7 @@
 4%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 16%	https://blocklistproject.github.io/Lists/ads.txt
 6%	https://blocklistproject.github.io/Lists/tracking.txt
-5%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+3%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 1%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 9%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 8%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -165,12 +165,12 @@
 4%	https://tgc.cloud/downloads/hosts.txt
 6%	https://badmojr.github.io/1Hosts/Lite/domains.txt
 5%	https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt
-3%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+4%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 5%	https://anti-ad.net/domains.txt
 4%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 0%	https://blocklistproject.github.io/Lists/ads.txt
 0%	https://blocklistproject.github.io/Lists/tracking.txt
-3%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+2%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 0%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 0%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 2%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -206,7 +206,7 @@
 0%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 7%	https://blocklistproject.github.io/Lists/ads.txt
 0%	https://blocklistproject.github.io/Lists/tracking.txt
-0%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+1%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 0%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 0%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 0%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -290,7 +290,7 @@
 
 # https://v.firebog.net/hosts/RPiList-Malware.txt
 -------------------------------------------------
-2%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+1%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 1%	https://v.firebog.net/hosts/static/w3kbl.txt
 1%	https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 9%	https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
@@ -300,17 +300,17 @@
 1%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 0%	https://v.firebog.net/hosts/RPiList-Phishing.txt
 0%	https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-73%	https://urlhaus.abuse.ch/downloads/hostfile/
+65%	https://urlhaus.abuse.ch/downloads/hostfile/
 0%	https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 0%	https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
 5%	https://big.oisd.nl
 0%	https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
 0%	https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
-12%	https://tgc.cloud/downloads/hosts.txt
-28%	https://badmojr.github.io/1Hosts/Lite/domains.txt
+11%	https://tgc.cloud/downloads/hosts.txt
+27%	https://badmojr.github.io/1Hosts/Lite/domains.txt
 18%	https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt
-28%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
-26%	https://anti-ad.net/domains.txt
+26%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+24%	https://anti-ad.net/domains.txt
 8%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 0%	https://blocklistproject.github.io/Lists/ads.txt
 0%	https://blocklistproject.github.io/Lists/tracking.txt
@@ -321,12 +321,12 @@
 1%	https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 0%	https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking
 1%	https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
-15%	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+14%	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
 
 
 # https://v.firebog.net/hosts/RPiList-Phishing.txt
 -------------------------------------------------
-54%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+55%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 0%	https://v.firebog.net/hosts/static/w3kbl.txt
 0%	https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 0%	https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
@@ -350,7 +350,7 @@
 11%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 0%	https://blocklistproject.github.io/Lists/ads.txt
 0%	https://blocklistproject.github.io/Lists/tracking.txt
-5%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+9%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 0%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 0%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 0%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -511,13 +511,13 @@
 56%	https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 1%	https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 21%	https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-1%	https://v.firebog.net/hosts/Prigent-Crypto.txt
+2%	https://v.firebog.net/hosts/Prigent-Crypto.txt
 0%	https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 80%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 2%	https://v.firebog.net/hosts/RPiList-Malware.txt
 0%	https://v.firebog.net/hosts/RPiList-Phishing.txt
 3%	https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-83%	https://urlhaus.abuse.ch/downloads/hostfile/
+78%	https://urlhaus.abuse.ch/downloads/hostfile/
 16%	https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 9%	https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
 67%	https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
@@ -525,19 +525,19 @@
 24%	https://tgc.cloud/downloads/hosts.txt
 40%	https://badmojr.github.io/1Hosts/Lite/domains.txt
 16%	https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt
-39%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
-41%	https://anti-ad.net/domains.txt
+40%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+42%	https://anti-ad.net/domains.txt
 8%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 18%	https://blocklistproject.github.io/Lists/ads.txt
 6%	https://blocklistproject.github.io/Lists/tracking.txt
-12%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+9%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 3%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 11%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 12%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 4%	https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 23%	https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking
 3%	https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
-34%	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+35%	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
 
 
 # https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
@@ -614,7 +614,7 @@
 
 # https://tgc.cloud/downloads/hosts.txt
 -------------------------------------------------
-66%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+64%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 76%	https://v.firebog.net/hosts/static/w3kbl.txt
 84%	https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 9%	https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
@@ -622,10 +622,10 @@
 2%	https://v.firebog.net/hosts/Prigent-Crypto.txt
 0%	https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 80%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-9%	https://v.firebog.net/hosts/RPiList-Malware.txt
+8%	https://v.firebog.net/hosts/RPiList-Malware.txt
 15%	https://v.firebog.net/hosts/RPiList-Phishing.txt
 5%	https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-36%	https://urlhaus.abuse.ch/downloads/hostfile/
+35%	https://urlhaus.abuse.ch/downloads/hostfile/
 19%	https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 45%	https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
 46%	https://big.oisd.nl
@@ -633,12 +633,12 @@
 32%	https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 89%	https://badmojr.github.io/1Hosts/Lite/domains.txt
 43%	https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt
-69%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+70%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 80%	https://anti-ad.net/domains.txt
 17%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 37%	https://blocklistproject.github.io/Lists/ads.txt
 12%	https://blocklistproject.github.io/Lists/tracking.txt
-8%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+7%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 5%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 21%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 23%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -674,7 +674,7 @@
 8%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 18%	https://blocklistproject.github.io/Lists/ads.txt
 8%	https://blocklistproject.github.io/Lists/tracking.txt
-3%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+2%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 3%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 15%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 22%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -710,7 +710,7 @@
 16%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 30%	https://blocklistproject.github.io/Lists/ads.txt
 9%	https://blocklistproject.github.io/Lists/tracking.txt
-7%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+5%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 3%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 16%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 18%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -722,7 +722,7 @@
 
 # https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 -------------------------------------------------
-26%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+25%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 98%	https://v.firebog.net/hosts/static/w3kbl.txt
 70%	https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 57%	https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
@@ -730,10 +730,10 @@
 2%	https://v.firebog.net/hosts/Prigent-Crypto.txt
 0%	https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 36%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-11%	https://v.firebog.net/hosts/RPiList-Malware.txt
+10%	https://v.firebog.net/hosts/RPiList-Malware.txt
 0%	https://v.firebog.net/hosts/RPiList-Phishing.txt
 0%	https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-74%	https://urlhaus.abuse.ch/downloads/hostfile/
+67%	https://urlhaus.abuse.ch/downloads/hostfile/
 24%	https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 9%	https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
 44%	https://big.oisd.nl
@@ -746,14 +746,14 @@
 14%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 31%	https://blocklistproject.github.io/Lists/ads.txt
 10%	https://blocklistproject.github.io/Lists/tracking.txt
-5%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+4%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 4%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 18%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-20%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+19%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 14%	https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 40%	https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking
 9%	https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
-50%	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
+49%	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
 
 
 # https://anti-ad.net/domains.txt
@@ -769,23 +769,23 @@
 6%	https://v.firebog.net/hosts/RPiList-Malware.txt
 0%	https://v.firebog.net/hosts/RPiList-Phishing.txt
 0%	https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-65%	https://urlhaus.abuse.ch/downloads/hostfile/
+59%	https://urlhaus.abuse.ch/downloads/hostfile/
 79%	https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 7%	https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
 29%	https://big.oisd.nl
 8%	https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
 40%	https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
-31%	https://tgc.cloud/downloads/hosts.txt
+30%	https://tgc.cloud/downloads/hosts.txt
 64%	https://badmojr.github.io/1Hosts/Lite/domains.txt
 26%	https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt
-54%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+55%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 9%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 15%	https://blocklistproject.github.io/Lists/ads.txt
 8%	https://blocklistproject.github.io/Lists/tracking.txt
-3%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+2%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 4%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 14%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
-17%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
+16%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 9%	https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 44%	https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking
 3%	https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
@@ -814,11 +814,11 @@
 26%	https://tgc.cloud/downloads/hosts.txt
 35%	https://badmojr.github.io/1Hosts/Lite/domains.txt
 31%	https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt
-37%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+38%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 38%	https://anti-ad.net/domains.txt
 16%	https://blocklistproject.github.io/Lists/ads.txt
 6%	https://blocklistproject.github.io/Lists/tracking.txt
-19%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+17%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 3%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 11%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 13%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
@@ -830,14 +830,14 @@
 
 # https://blocklistproject.github.io/Lists/ads.txt
 -------------------------------------------------
-23%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+22%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 52%	https://v.firebog.net/hosts/static/w3kbl.txt
 41%	https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 3%	https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 1%	https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 31%	https://v.firebog.net/hosts/Prigent-Crypto.txt
 0%	https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
-25%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+26%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 0%	https://v.firebog.net/hosts/RPiList-Malware.txt
 0%	https://v.firebog.net/hosts/RPiList-Phishing.txt
 0%	https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
@@ -902,35 +902,35 @@
 
 # https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 -------------------------------------------------
-37%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+39%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 1%	https://v.firebog.net/hosts/static/w3kbl.txt
 10%	https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 0%	https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 51%	https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-8%	https://v.firebog.net/hosts/Prigent-Crypto.txt
+24%	https://v.firebog.net/hosts/Prigent-Crypto.txt
 34%	https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
-75%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+76%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 1%	https://v.firebog.net/hosts/RPiList-Malware.txt
-7%	https://v.firebog.net/hosts/RPiList-Phishing.txt
-82%	https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-96%	https://urlhaus.abuse.ch/downloads/hostfile/
-21%	https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
+18%	https://v.firebog.net/hosts/RPiList-Phishing.txt
+83%	https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
+91%	https://urlhaus.abuse.ch/downloads/hostfile/
+30%	https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 0%	https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
-42%	https://big.oisd.nl
+43%	https://big.oisd.nl
 0%	https://raw.githubusercontent.com/xxcriticxx/.pl-host-file/master/hosts.txt
 3%	https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
-16%	https://tgc.cloud/downloads/hosts.txt
+22%	https://tgc.cloud/downloads/hosts.txt
 15%	https://badmojr.github.io/1Hosts/Lite/domains.txt
 16%	https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt
-16%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+17%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 17%	https://anti-ad.net/domains.txt
-22%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
+28%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 3%	https://blocklistproject.github.io/Lists/ads.txt
 0%	https://blocklistproject.github.io/Lists/tracking.txt
 1%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 2%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 3%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-1%	https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
+2%	https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 1%	https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking
 0%	https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
 22%	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
@@ -945,7 +945,7 @@
 0%	https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 0%	https://v.firebog.net/hosts/Prigent-Crypto.txt
 0%	https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
-14%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
+12%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 0%	https://v.firebog.net/hosts/RPiList-Malware.txt
 0%	https://v.firebog.net/hosts/RPiList-Phishing.txt
 1%	https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
@@ -966,7 +966,7 @@
 0%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 11%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 11%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-40%	https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
+39%	https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt
 41%	https://github.com/migueldemoura/ublock-umatrix-rulesets/raw/master/Hosts/ads-tracking-breaking
 0%	https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
 4%	https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
@@ -1154,7 +1154,7 @@
 
 # https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.plus.txt
 -------------------------------------------------
-21%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+20%	https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 48%	https://v.firebog.net/hosts/static/w3kbl.txt
 69%	https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 5%	https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
@@ -1162,10 +1162,10 @@
 2%	https://v.firebog.net/hosts/Prigent-Crypto.txt
 0%	https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 85%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-8%	https://v.firebog.net/hosts/RPiList-Malware.txt
+7%	https://v.firebog.net/hosts/RPiList-Malware.txt
 1%	https://v.firebog.net/hosts/RPiList-Phishing.txt
 2%	https://raw.githubusercontent.com/AssoEchap/stalkerware-indicators/master/generated/hosts
-20%	https://urlhaus.abuse.ch/downloads/hostfile/
+18%	https://urlhaus.abuse.ch/downloads/hostfile/
 22%	https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 62%	https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/domains/native.tiktok.extended.txt
 50%	https://big.oisd.nl
@@ -1174,12 +1174,12 @@
 53%	https://tgc.cloud/downloads/hosts.txt
 69%	https://badmojr.github.io/1Hosts/Lite/domains.txt
 32%	https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt
-66%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
+65%	https://raw.githubusercontent.com/bongochong/CombinedPrivacyBlockLists/master/newhosts-final.hosts
 74%	https://anti-ad.net/domains.txt
 11%	https://github.com/notracking/hosts-blocklists/raw/master/dnscrypt-proxy/dnscrypt-proxy.blacklist.txt
 28%	https://blocklistproject.github.io/Lists/ads.txt
 12%	https://blocklistproject.github.io/Lists/tracking.txt
-9%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
+6%	https://github.com/hagezi/dns-blocklists/raw/main/domains/tif.txt
 7%	https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list
 22%	https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 25%	https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
