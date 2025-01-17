@@ -1308,3 +1308,5 @@ https://raw.githubusercontent.com/nextdns/metadata/master/privacy/native/xiaomi 
 https://github.com/NDDDDDDDDD/trackextract/raw/main/lists/combined.txt is offline.\n
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser is offline.\n
 https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list is offline.\n
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser is offline.\n
+https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list is offline.\n
