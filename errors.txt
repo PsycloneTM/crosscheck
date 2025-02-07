@@ -1314,3 +1314,5 @@ https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser is offline.\n
 https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list is offline.\n
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser is offline.\n
 https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list is offline.\n
+https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser is offline.\n
+https://github.com/cbuijs/accomplist/raw/master/chris/umbrella-top.list is offline.\n
